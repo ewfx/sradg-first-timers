@@ -42,18 +42,18 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   streamlit run finalui-firsttimers.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: streamlit
+- 🔹 RandomForestClassifier
+- 🔹 AgGrid, GridOptionsBuilder
+
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
